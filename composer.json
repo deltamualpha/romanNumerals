@@ -1,0 +1,19 @@
+{
+    "name": "davidashby/roman-numerals",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "David Ashby",
+            "email": "delta.mu.alpha@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "RomanNumerals\\": "src/"
+        }
+    }
+}
